@@ -4,6 +4,8 @@ So I am learning Full Stack Web Development course in Masai School, In Masai sch
 
 # TEAM
 
+- *YASH GAIKWAD*  [LINKEDIN](linkedin.com/in/yash-gaikwad-66a883228) [GITHUB](https://github.com/XYashGaikwad)
+
 - *SURAJ YADAV*  [LINKEDIN](https://www.linkedin.com/in/dev-suraj/) [GITHUB](https://github.com/SurajYadav22)
 
 - *KOMAL KUMAR*  [LINKEDIN](https://www.linkedin.com/in/komal-kumar-bvcoe/) [GITHUB](https://github.com/bewithkomalkumar)
